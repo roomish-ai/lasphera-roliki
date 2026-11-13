@@ -1,0 +1,16 @@
+# Видео и картинки в GitHub не храним — они на Google Диске.
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
+*.psd
+*.mp3
+*.wav
+*.m4a
+*.aac
+.DS_Store
